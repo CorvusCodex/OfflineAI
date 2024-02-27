@@ -35,8 +35,18 @@ Mistral AI is a state-of-the-art language model developed by Hugging Face. It is
 >ETH & BNB: 0x68B6D33Ad1A3e0aFaDA60d6ADf8594601BE492F0<br>
 >Buy me a coffee: https://www.buymeacoffee.com/CorvusCodex
 
-## Buy me some equipment (To develop more powerfull versions and to develop standalone versions for MacOS):
-https://www.buymeacoffee.com/corvuscodex/wishlist
+# Support the Development of Open-Source AI Models
+If you believe in the potential of open-source AI and want to support its development, consider buying me some equipment. With your help, I can build more powerful in-house AI models that can be used to improve OfflineAI and other open-source projects.
+
+Your support will go towards purchasing high-performance hardware such as GPUs, CPUs, and other necessary components that will allow me to train and test AI models more efficiently. This will ultimately lead to better and more accurate AI models that can benefit everyone.
+
+Here's how you can support the development of open-source AI models:
+
+- Buy me some equipment from my wishlist
+- Support my work for a month or year by becoming a member on Buy Me a Coffee
+- Make a one-time donation through Buy Me a Coffee
+  
+Thank you for your support! Together, we can push the boundaries of what's possible with open-source AI.
 
 ## Disclaimer
 The code within this repository comes with no guarantee, the use of this code is your responsibility. I take NO responsibility and/or liability for how you choose to use any of the source code available here. By using any of the files available in this repository, you understand that you are AGREEING TO USE AT YOUR OWN RISK. Once again, ALL files available here are for EDUCATION and/or RESEARCH purposes ONLY.
