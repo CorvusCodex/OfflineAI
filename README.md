@@ -10,19 +10,31 @@ OfflineAI is an artificial intelligence that operates offline and uses machine l
 - Operates offline for privacy and convenience
 - Built using the powerful Mistral AI model mistral-7b-instruct-v0.1.Q4_0 and Nomic Ai library
 
-### Installation
+## To install OfflineAI, you will need to have Python 3.x and the following libraries installed:
 
-To install OfflineAI, you will need to have Python 3.x and the following libraries installed:
 - gpt4all
 - mistralai
 
-You can install these libraries using pip by running the following command:
+Please note that an internet connection is required for the first-time installation to download the necessary libraries and models.
 
+You can install these libraries using pip by running the following command:
 
 '''pip install gpt4all mistralai'''
 
+
+After installing the libraries, OfflineAI will automatically download the necessary models for the application to function properly. The default model used by OfflineAI is the mistral-7b-instruct-v0.1.Q4_0.gguf model, which is the best overall fast instruction following model.
+
+Here are some details about the default model:
+
+- SIZE: 3.83 GB
+- RAM: 8 GB
+- Model: mistral-7b-instruct-v0.1.Q4_0.gguf
+- Type: Fast instruction following model
+- Features: Fast responses, trained by Mistral AI, uncensored, licensed for commercial use
+Once the libraries and models are installed, you can run OfflineAI locally on your machine without an internet connection.
+
 ### Usage
-To use OfflineAI, you will need to have a model file for Mistral AI and a model file for GPT4All. Once you have the model files, you can run the `OfflineAI.py` script to interact with the AI. The script will print the AI's responses to the console.
+To use OfflineAI, you will need to have a model file for Mistral AI and a model file for GPT4All. Once you have the model files, you can run the `Offlineai.py` script to interact with the AI. The script will print the AI's responses to the console.
 
 Please note that while OfflineAI uses advanced machine learning techniques to generate responses, there is no guarantee that its responses will be accurate or appropriate for all situations. Use OfflineAI responsibly and at your own risk.
 
