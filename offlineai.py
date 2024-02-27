@@ -3,7 +3,7 @@ from gpt4all import GPT4All
 model = GPT4All("mistral-7b-instruct-v0.1.Q4_0.gguf")
 
 print("-------------------------------------")
-print("Loading the model. please wait...")
+print("Loading the model mistral-7b-instruct-v0.1.Q4_0.gguf by MistraiAI. please wait...")
 print("============================================================")
 print("Welcome to the Offline AI assistant!")
 print("============================================================")
