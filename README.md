@@ -6,14 +6,15 @@
 OfflineAI is an artificial intelligence that operates offline and uses machine learning to perform various tasks based on the code provided. It is built using two powerful AI models: Mistral AI and GPT4All.
 
 ## Features
--Uses advanced machine learning techniques to generate responses
--Operates offline for privacy and convenience
--Built using the powerful Mistral AI and GPT4All models
+- Uses advanced machine learning techniques to generate responses
+- Operates offline for privacy and convenience
+- Built using the powerful Mistral AI model mistral-7b-instruct-v0.1.Q4_0 and Nomic Ai library
 
 ### Installation
+
 To install OfflineAI, you will need to have Python 3.x and the following libraries installed:
--gpt4all
--mistralai
+- gpt4all
+- mistralai
 
 You can install these libraries using pip by running the following command:
 
