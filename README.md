@@ -30,13 +30,15 @@ Please note that while OfflineAI uses advanced machine learning techniques to ge
 #### Mistral AI
 Mistral AI is a state-of-the-art language model developed by Hugging Face. It is trained on a massive dataset of diverse texts and can generate coherent and contextually relevant responses to a wide range of prompts. Mistral AI is used in OfflineAI to generate responses to user inputs.
 
-## Support my work
-If you find OfflineAI helpful and want to support my work, you can:
+>Support my work:<br>
+>BTC: bc1q7wth254atug2p4v9j3krk9kauc0ehys2u8tgg3<br>
+>ETH & BNB: 0x68B6D33Ad1A3e0aFaDA60d6ADf8594601BE492F0<br>
+>Buy me a coffee: https://www.buymeacoffee.com/CorvusCodex
 
-Buy me a coffee: https://www.buymeacoffee.com/CorvusCodex
-Support my work for a month or year: https://www.buymeacoffee.com/corvuscodex/membership
-Buy me some equipment: https://www.buymeacoffee.com/corvuscodex/wishlist
-Disclaimer
+## Buy me some equipment (To develop more powerfull versions and to develop standalone versions for MacOS):
+https://www.buymeacoffee.com/corvuscodex/wishlist
+
+## Disclaimer
 The code within this repository comes with no guarantee, the use of this code is your responsibility. I take NO responsibility and/or liability for how you choose to use any of the source code available here. By using any of the files available in this repository, you understand that you are AGREEING TO USE AT YOUR OWN RISK. Once again, ALL files available here are for EDUCATION and/or RESEARCH purposes ONLY.
 
 ### License
