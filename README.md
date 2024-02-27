@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/CorvusCodex/OfflineAI/blob/main/LotteryAi.png?raw=true">
+  <img src="https://github.com/CorvusCodex/OfflineAI/blob/main/offlineai.png?raw=true">
 </p>
 
 # OfflineAI
