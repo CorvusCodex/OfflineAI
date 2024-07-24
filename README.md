@@ -42,7 +42,10 @@ Here are some details about the default model:
 Once the libraries and models are installed, you can run OfflineAI locally on your machine without an internet connection, get Windows standalone for instant program.
 
 ### Usage
-To use OfflineAI, you will need to have a model file for Phi-3-mini-4k-instruct. Once you have the model files, you can run the `Offlineai.py` script to interact with the AI. The script will print the AI's responses to the console.
+To use OfflineAI, you will need to have a model file for Phi-3-mini-4k-instruct. 
+Download it from here: https://huggingface.co/microsoft/Phi-3-mini-4k-instruct-gguf/blob/main/Phi-3-mini-4k-instruct-q4.gguf
+Then put it in same folder where script is.
+Once you have the model files, you can run the `Offlineai.py` script to interact with the AI. The script will print the AI's responses to the console.
 
 Please note that while OfflineAI uses advanced machine learning techniques to generate responses, there is no guarantee that its responses will be accurate or appropriate for all situations. Use OfflineAI responsibly and at your own risk.
 
