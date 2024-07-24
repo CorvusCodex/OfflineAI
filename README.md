@@ -3,45 +3,51 @@
 </p>
 
 # OfflineAI
-OfflineAI is an artificial intelligence that operates offline and uses machine learning to perform various tasks based on the code provided. It is built using two powerful AI models: Mistral AI and GPT4All.
+OfflineAI is an artificial intelligence that operates offline and uses machine learning to perform various tasks based on the code provided.
+
+
+## For people without technical experience you can buy the compiled complete offline standalone application (Now with a GUI!) for windows from here:
+https://www.buymeacoffee.com/CorvusCodex/e/155047?from_page=extras
+
 
 ## Features
 - Uses advanced machine learning techniques to generate responses
 - Operates offline for privacy and convenience
-- Built using the powerful Mistral AI model mistral-7b-instruct-v0.1.Q4_0 and Nomic Ai library
+- Built using the powerful **Phi-3-mini-4k-instruct.Q4_0** model trained by Microsoft
 
 ## To install OfflineAI, you will need to have Python 3.x and the following libraries installed:
 
-- gpt4all
-- mistralai
+- llama_cpp
 
-Please note that an internet connection is required for the first-time installation to download the necessary libraries and models.
+Please note that an internet connection is required for the first-time installation to download the necessary libraries and models ( Just for console version, on windows app you can use it fullly offline).
 
 You can install these libraries using pip by running the following command:
 
-'''pip install gpt4all mistralai'''
+'''pip install llama_cpp'''
 
 
-After installing the libraries, OfflineAI will automatically download the necessary models for the application to function properly. The default model used by OfflineAI is the mistral-7b-instruct-v0.1.Q4_0.gguf model, which is the best overall fast instruction following model.
+After installing the libraries, OfflineAI will automatically download the necessary models for the application to function properly. The default model used by OfflineAI is the Phi-3-mini-4k-instruct.Q4_0.gguf model, which is a fast instruction following model.
 
 Here are some details about the default model:
 
-- SIZE: 3.83 GB
-- RAM: 8 GB
-- Model: mistral-7b-instruct-v0.1.Q4_0.gguf
-- Type: Fast instruction following model
-- Features: Fast responses, trained by Mistral AI, uncensored, licensed for commercial use
-Once the libraries and models are installed, you can run OfflineAI locally on your machine without an internet connection.
+- Model Size: 2.03 GB
+- RAM: 4 GB
+- Model: Phi-3-mini-4k-instruct.Q4_0.gguf
+- Type: Very Fast Response
+- Trained by Microsoft
+- Chat based model
+- Parameters: 4 billion
+- Quant: q4_0
+- Type: Phi-3
+- Licence: MIT
+  
+Once the libraries and models are installed, you can run OfflineAI locally on your machine without an internet connection, get Windows standalone for instant program.
 
 ### Usage
-To use OfflineAI, you will need to have a model file for Mistral AI and a model file for GPT4All. Once you have the model files, you can run the `Offlineai.py` script to interact with the AI. The script will print the AI's responses to the console.
+To use OfflineAI, you will need to have a model file for Phi-3-mini-4k-instruct. Once you have the model files, you can run the `Offlineai.py` script to interact with the AI. The script will print the AI's responses to the console.
 
 Please note that while OfflineAI uses advanced machine learning techniques to generate responses, there is no guarantee that its responses will be accurate or appropriate for all situations. Use OfflineAI responsibly and at your own risk.
 
-### Models Used
-
-#### Mistral AI
-Mistral AI is a state-of-the-art language model developed by Hugging Face. It is trained on a massive dataset of diverse texts and can generate coherent and contextually relevant responses to a wide range of prompts. Mistral AI is used in OfflineAI to generate responses to user inputs.
 
 >Support my work:<br>
 >BTC: bc1q7wth254atug2p4v9j3krk9kauc0ehys2u8tgg3<br>
