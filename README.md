@@ -26,8 +26,6 @@ You can install these libraries using pip by running the following command:
 '''pip install llama_cpp'''
 
 
-After installing the libraries, OfflineAI will automatically download the necessary models for the application to function properly. The default model used by OfflineAI is the Phi-3-mini-4k-instruct.Q4_0.gguf model, which is a fast instruction following model.
-
 Here are some details about the default model:
 
 - Model Size: 2.03 GB
