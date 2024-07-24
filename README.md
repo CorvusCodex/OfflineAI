@@ -7,7 +7,7 @@ OfflineAI is an artificial intelligence that operates offline and uses machine l
 
 
 ## For people without technical experience you can buy the compiled complete offline standalone application (Now with a GUI!) for windows from here:
-https://www.buymeacoffee.com/CorvusCodex/e/155047?from_page=extras
+[https://www.buymeacoffee.com/CorvusCodex/e/155047?from_page=extras](https://buymeacoffee.com/corvuscodex/e/281127)
 
 
 ## Features
