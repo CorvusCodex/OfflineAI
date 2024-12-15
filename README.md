@@ -6,7 +6,7 @@
 OfflineAI is an artificial intelligence that operates offline and uses machine learning to perform various tasks based on the code provided.
 
 
-## For people without technical experience you can buy the compiled complete offline standalone application (Now with a GUI!) for windows from here:
+## For people without technical experience you can buy the compiled,complete,more advanced, offline standalone GUI application for windows from here:
 [https://www.buymeacoffee.com/CorvusCodex/e/155047?from_page=extras](https://buymeacoffee.com/corvuscodex/e/281127)
 
 
