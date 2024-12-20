@@ -74,7 +74,7 @@ The code within this repository comes with no guarantee, the use of this code is
 ### License
 OfflineAI is released under the MIT License. See the LICENSE file for more details.
 
-Copyright (c) 2023 CorvusCodex
+Copyright (c) 2024 CorvusCodex
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
