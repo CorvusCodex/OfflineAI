@@ -54,6 +54,7 @@ Please note that while OfflineAI uses advanced machine learning techniques to ge
 >BTC: bc1q7wth254atug2p4v9j3krk9kauc0ehys2u8tgg3<br>
 >SOL: FsX3CsTFkRjzne2KiD8gjw3PEW2bYqezKfydAP55BVj7
 >POLYGON, ETH & BNB: 0x68B6D33Ad1A3e0aFaDA60d6ADf8594601BE492F0<br>
+>SOL: FsX3CsTFkRjzne2KiD8gjw3PEW2bYqezKfydAP55BVj7<br>
 >Buy me a coffee: https://www.buymeacoffee.com/CorvusCodex
 
 # Support the Development of Open-Source AI Models
