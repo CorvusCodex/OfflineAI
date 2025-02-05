@@ -3,7 +3,7 @@
 </p>
 
 # OfflineAI
-OfflineAI is an artificial intelligence that operates offline and uses machine learning to perform various tasks based on the code provided.
+OfflineAI is an artificial intelligence that operates offline and uses machine learning to perform various tasks based on the code provided
 
 
 ## For people without technical experience you can buy the compiled,complete,more advanced, offline standalone GUI application for windows from here:
