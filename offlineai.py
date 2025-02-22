@@ -28,7 +28,7 @@ model = Llama(
   verbose=False  # Suppress timing information
 )
 
-print("-------------------------------------")
+print("============================================================")
 print("Loading the model. please wait...")
 print("============================================================")
 print("Welcome to the Offline AI assistant!")
